@@ -1,7 +1,8 @@
 # Cyclistic-Case-Study
 
 This project is a case study for Cyclistic, a fictional bike-share company. The goal of the analysis is to provide insights into how casual riders and annual members use Cyclistic bikes differently, and to suggest strategies for converting casual riders into annual members.
-Features
+
+# Features
 
     Data Cleaning and Preprocessing: Cleans and preprocesses bike-share trip data, handling missing values and formatting for analysis.
     Exploratory Data Analysis (EDA): Provides insights into rider behavior, trip durations, times, and locations.
